@@ -1,0 +1,1 @@
+I am using now the clone method to upload the txt file using VS Code.
